@@ -38,7 +38,7 @@
   },
   "scripts": {
     "build": "cake build",
-    "prepublish": "cake build",
+    "prepare": "cake build",
     "start": "coffee src/index.coffee",
     "test": "cake test"
   },
